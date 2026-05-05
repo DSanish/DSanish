@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I’m a dedicated data enthusiast who loves working with<b>data to extract meaningful insights and drive decisions.</b>I specialize in <b>data analysis, visualization, and building data-driven solutions</b> — using mordern tools and technologies.<br/>
+I’m a dedicated data enthusiast who loves working with <b> data to extract meaningful insights and drive decisions.</b>I specialize in <b>data analysis, visualization, and building data-driven solutions</b> — using mordern tools and technologies.<br/>
 My goal is to transform raw data into actionable insights through clean analysis, powerful visualizations, and logical thinking. I enjoy solving real-world problems and continuously learning new tools in the field of data science.
 </p>
 

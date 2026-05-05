@@ -59,7 +59,7 @@ My goal is to transform raw data into actionable insights through clean analysis
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSanish&repo=uber-data-analysis&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
   
-  <a href="https://github.com/DSanish/YOUR-SECOND-REPO">
+  <a href="https://github.com/DSanish/student_result_management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSanish&repo=YOUR-SECOND-REPO&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
 </p>
@@ -78,7 +78,7 @@ My goal is to transform raw data into actionable insights through clean analysis
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=CFMrahul&label=Profile%20views&color=0e75b6&style=flat" alt="CFMrahul"/>
+<img src="https://komarev.com/ghpvc/?username=DSanish&label=Profile%20views&color=0e75b6&style=flat" alt="DSanish"/>
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>

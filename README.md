@@ -92,3 +92,7 @@ My goal is to transform raw data into actionable insights through clean analysis
 <p align="center">
   — <b>Anish Kumar</b>
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" alt="">
+</div>
